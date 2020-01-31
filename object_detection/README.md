@@ -14,4 +14,4 @@ Create the following folder structure:
 ----------> inference </br>
 ------> test_results </br>
 
-Download the model from the drive link https://drive.google.com/drive/folders/1_XLF8trfNzruIHK6d1opncRYUHgg4xs9?usp=sharing and place it in the 'void-detector' folder
+Download the model from the drive link https://drive.google.com/drive/folders/1_XLF8trfNzruIHK6d1opncRYUHgg4xs9?usp=sharing and place it in the 'void-detector/model' folder
